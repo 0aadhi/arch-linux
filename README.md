@@ -1,6 +1,6 @@
 # arch-linux
 
-Sys
+Sys n\
 Command line interface(cli) - arch linux
 Window manager - dwm(dynamic window manager)
 Terminal - st(suckless simple terminal)
