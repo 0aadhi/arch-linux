@@ -17,8 +17,8 @@ Using
 5. Document viewer - zathura 
 6. Document editor - libreoffice
 7. External drive Auto mount - udiskie
-External drive Mount/unmount - udisks2
-Audio - alsamixer(alsa-utils)
-Wifi - network manager 
-Bluetooth - bluez, bluezutils
-Hardware statistics - btop
+8. External drive Mount/unmount - udisks2
+9. Audio - alsamixer(alsa-utils)
+10. Wifi - network manager 
+11. Bluetooth - bluez, bluezutils
+12. Hardware statistics - btop
