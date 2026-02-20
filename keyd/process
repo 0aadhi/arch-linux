@@ -1,0 +1,4 @@
+sudo pacman -S keyd
+create file (sudo vim "/etc/keyd/x270.conf") which we are using
+and edit file with the needed keys
+sudo systemctl enable --now keyd
