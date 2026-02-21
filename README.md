@@ -22,3 +22,4 @@ Using
 10. Wifi - network manager 
 11. Bluetooth - bluez, bluezutils
 12. Hardware statistics - btop
+13. broken key modifier - keyd
