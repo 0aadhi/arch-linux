@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/aadhi/wallpapers/wallhaven-1q19kv_1920x1080.png' 
