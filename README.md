@@ -1,6 +1,5 @@
 # arch-linux
 
-
 Sys 
 1. Command line interface(cli) - arch linux
 2. Window manager - dwm(dynamic window manager)
